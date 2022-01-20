@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"obj_hello_world_text","path":"objects/obj_hello_world_text/obj_hello_world_text.yy",},"order":0,},
+    {"id":{"name":"rm_data_types","path":"rooms/rm_data_types/rm_data_types.yy",},"order":1,},
+    {"id":{"name":"obj_data_types_controller","path":"objects/obj_data_types_controller/obj_data_types_controller.yy",},"order":1,},
     {"id":{"name":"rm_hello_world","path":"rooms/rm_hello_world/rm_hello_world.yy",},"order":0,},
   ],
   "Options": [
@@ -18,6 +20,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_data_types","path":"rooms/rm_data_types/rm_data_types.yy",},},
     {"roomId":{"name":"rm_hello_world","path":"rooms/rm_hello_world/rm_hello_world.yy",},},
   ],
   "Folders": [
