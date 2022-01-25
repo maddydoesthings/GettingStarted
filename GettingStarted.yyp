@@ -7,6 +7,8 @@
     {"id":{"name":"rm_data_types","path":"rooms/rm_data_types/rm_data_types.yy",},"order":1,},
     {"id":{"name":"rm_ifstatement","path":"rooms/rm_ifstatement/rm_ifstatement.yy",},"order":3,},
     {"id":{"name":"obj_data_types_controller","path":"objects/obj_data_types_controller/obj_data_types_controller.yy",},"order":1,},
+    {"id":{"name":"obj_loop","path":"objects/obj_loop/obj_loop.yy",},"order":4,},
+    {"id":{"name":"rm_loop","path":"rooms/rm_loop/rm_loop.yy",},"order":4,},
     {"id":{"name":"rm_hello_world","path":"rooms/rm_hello_world/rm_hello_world.yy",},"order":0,},
   ],
   "Options": [
@@ -24,6 +26,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_loop","path":"rooms/rm_loop/rm_loop.yy",},},
     {"roomId":{"name":"rm_ifstatement","path":"rooms/rm_ifstatement/rm_ifstatement.yy",},},
     {"roomId":{"name":"rm_variables1","path":"rooms/rm_variables1/rm_variables1.yy",},},
     {"roomId":{"name":"rm_data_types","path":"rooms/rm_data_types/rm_data_types.yy",},},
