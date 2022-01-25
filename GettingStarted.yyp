@@ -1,11 +1,19 @@
 {
   "resources": [
+    {"id":{"name":"obj_triangle","path":"objects/obj_triangle/obj_triangle.yy",},"order":6,},
+    {"id":{"name":"rm_position_objects","path":"rooms/rm_position_objects/rm_position_objects.yy",},"order":5,},
     {"id":{"name":"obj_variables","path":"objects/obj_variables/obj_variables.yy",},"order":2,},
     {"id":{"name":"rm_variables1","path":"rooms/rm_variables1/rm_variables1.yy",},"order":2,},
+    {"id":{"name":"obj_circle","path":"objects/obj_circle/obj_circle.yy",},"order":8,},
+    {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},"order":1,},
     {"id":{"name":"obj_hello_world_text","path":"objects/obj_hello_world_text/obj_hello_world_text.yy",},"order":0,},
     {"id":{"name":"obj_if_statement","path":"objects/obj_if_statement/obj_if_statement.yy",},"order":3,},
     {"id":{"name":"rm_data_types","path":"rooms/rm_data_types/rm_data_types.yy",},"order":1,},
     {"id":{"name":"rm_ifstatement","path":"rooms/rm_ifstatement/rm_ifstatement.yy",},"order":3,},
+    {"id":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"order":0,},
+    {"id":{"name":"obj_square","path":"objects/obj_square/obj_square.yy",},"order":7,},
+    {"id":{"name":"ob_position_objects","path":"objects/ob_position_objects/ob_position_objects.yy",},"order":5,},
+    {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":2,},
     {"id":{"name":"obj_data_types_controller","path":"objects/obj_data_types_controller/obj_data_types_controller.yy",},"order":1,},
     {"id":{"name":"obj_loop","path":"objects/obj_loop/obj_loop.yy",},"order":4,},
     {"id":{"name":"rm_loop","path":"rooms/rm_loop/rm_loop.yy",},"order":4,},
@@ -26,6 +34,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_position_objects","path":"rooms/rm_position_objects/rm_position_objects.yy",},},
     {"roomId":{"name":"rm_loop","path":"rooms/rm_loop/rm_loop.yy",},},
     {"roomId":{"name":"rm_ifstatement","path":"rooms/rm_ifstatement/rm_ifstatement.yy",},},
     {"roomId":{"name":"rm_variables1","path":"rooms/rm_variables1/rm_variables1.yy",},},
