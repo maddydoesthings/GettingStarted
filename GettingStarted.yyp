@@ -46,8 +46,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_simple_movement","path":"rooms/rm_simple_movement/rm_simple_movement.yy",},},
     {"roomId":{"name":"rm_npc_movement","path":"rooms/rm_npc_movement/rm_npc_movement.yy",},},
+    {"roomId":{"name":"rm_simple_movement","path":"rooms/rm_simple_movement/rm_simple_movement.yy",},},
     {"roomId":{"name":"rm_errors","path":"rooms/rm_errors/rm_errors.yy",},},
     {"roomId":{"name":"rm_position_objects","path":"rooms/rm_position_objects/rm_position_objects.yy",},},
     {"roomId":{"name":"rm_loop","path":"rooms/rm_loop/rm_loop.yy",},},
